@@ -13,7 +13,7 @@ compatible : Greebo
 depends    : 
 conflicts  : 
 similar    : 
-tags       : media, images, video, music, embed
+tags       : media, images, video, music, embed, flickr, twitter, vimeo, youtube
 
 downloadurl: https://github.com/zzkt/dokuwiki-oembed/zipball/master
 sourcerepo : https://github.com/zzkt/dokuwiki-oembed/
